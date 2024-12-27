@@ -1,0 +1,1 @@
+Un projet e-commerce est une application web permettant aux utilisateurs de parcourir, rechercher et acheter des produits en ligne. Il inclut des fonctionnalités comme la gestion des utilisateurs, l'authentification, un panier d'achat, et le paiement sécurisé. Le back-end gère les bases de données des produits, commandes, et utilisateurs.
